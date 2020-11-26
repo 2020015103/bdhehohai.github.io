@@ -8,7 +8,7 @@
       <p><b>地址：浙江省宁波市浙江万里学院回龙校区，邮编315101</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      %zhengjianzhao.jpg
+      <img src="/zhengjianzhao.jpg" width="100%">      %
     </td>
   </tr>
 </table>
